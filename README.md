@@ -55,4 +55,5 @@ A well-designed e-commerce system built upon these components should adhere to t
 * **Stock Level Updates:** Automatically adjusting stock levels upon successful order completion.
 * **Order Confirmation:** Providing clear and timely confirmation of completed orders to the customer.
 
-This structured approach to the design and implementation of the e-commerce system will lay the foundation for a robust, scalable, and user-friendly online retail platform.
+This structured approach to designing and implementing the e-commerce system will establish a solid foundation for a robust, scalable, and user-centric online retail platform.
+
